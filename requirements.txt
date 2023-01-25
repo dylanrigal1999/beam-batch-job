@@ -1,0 +1,2 @@
+apache-beam[gcp, dataframe]==2.44.0
+DateTime==5.0
