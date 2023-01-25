@@ -8,4 +8,6 @@ echo Run unit test
 python3 -m unittest
 echo Run pipeline
 python3 -m pipeline
-echo Pieline done. Output is in /output
+echo Pieline done. Display output:
+cat output/results.csv-00000-of-00001
+echo run done.
